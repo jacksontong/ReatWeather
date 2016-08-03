@@ -7,6 +7,7 @@ import About from './components/About.jsx';
 import Examples from './components/Examples.jsx';
 // Load foundation
 require('style!css!foundation-sites/dist/foundation.min.css');
+require('style!css!./styles/app.css');
 $(document).foundation();
 
 ReactDOM.render(

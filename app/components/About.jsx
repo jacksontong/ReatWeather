@@ -3,7 +3,7 @@ import React from 'react';
 const About = (props) => {
   return (
     <div>
-      <h1 className="text-center">About</h1>
+      <h1 className="text-center page-title">About</h1>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur eius fugiat modi molestiae officiis
         quidem quo! Alias corporis delectus distinctio enim facere ipsa minima non, numquam quas sit tempore
         voluptatum.</p>
