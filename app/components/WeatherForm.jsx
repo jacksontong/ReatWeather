@@ -2,7 +2,7 @@ import React from 'react';
 
 const WeatherForm = React.createClass({
   propTypes: {
-    onSearch: React.PropTypes.func
+    onSearch: React.PropTypes.func.isRequired
   },
   onFormSubmit(e) {
     e.preventDefault();
